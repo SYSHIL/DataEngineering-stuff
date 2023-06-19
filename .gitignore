@@ -1,0 +1,3 @@
+__pycache__/
+data/
+etl-web-to-gcs.yaml
